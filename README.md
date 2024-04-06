@@ -1,4 +1,4 @@
-### Hello, you! 🧩
+### Hey, you! 🧩
 Visit my hub link and see more.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
