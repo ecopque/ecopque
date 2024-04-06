@@ -6,7 +6,7 @@ PGP Key: 4003 B364 0EC9 61EE 8045 0F5C B416 F2CB D9C0 5301
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 
 ### 🛠 &nbsp; My Tools
-Some tools I use most. ;-)
+Some tools I use most and others under study:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
