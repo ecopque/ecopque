@@ -5,7 +5,7 @@ Visit my hub link and see more.
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 
 ### 🛠 &nbsp; My Tools
-These are some tools I use most.
+Some tools I use most.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
