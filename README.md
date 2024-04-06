@@ -1,7 +1,7 @@
 ### Hello, you! 🧩
 Visit my hub link and see more.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
