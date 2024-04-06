@@ -1,7 +1,7 @@
 ### Hey, you! 🧩
 Visit my hub link and see more.
 
-![Python :3.11.2](https://img.shields.io/badge/PythonVersion-3.11.2-informational) &nbsp;
+https://img.shields.io/badge/Python%20Version-3.11.2-blue
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
 
