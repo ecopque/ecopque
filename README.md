@@ -16,7 +16,7 @@ Some tools I use most and others under study:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=qt)&nbsp;
-![Json](https://img.shields.io/badge/-Calendar-05122A?style=flat&logo=json)&nbsp;
+![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
 
