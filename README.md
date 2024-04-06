@@ -18,7 +18,7 @@ Some tools I use most and others under study:
 ![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=qt)&nbsp;
 ![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=pgp)&nbsp;
 ![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=openpgp)&nbsp;
-![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=gpg)&nbsp;
+![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=cripto)&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
 
