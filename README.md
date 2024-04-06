@@ -1,5 +1,6 @@
 ### Hey, you! 🧩
 Visit my hub link and see more.
+![Python :3.11.2](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
 
