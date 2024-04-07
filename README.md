@@ -24,7 +24,8 @@ Some tools I use most and others under study:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
 
-
+## Latest Articles
+- [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files)
 
 
 <!--
