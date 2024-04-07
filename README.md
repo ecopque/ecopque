@@ -2,7 +2,7 @@
 - Visit my hub link and see more. ;-)
 - PGP Key: 4003 B364 0EC9 61EE 8045 0F5C B416 F2CB D9C0 5301
 
-![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)
+![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 ![Linktr.ee](https://img.shields.io/badge/-Linktr.ee-00 turquoise?style=flat&logo=Linktree)](https://linktr.ee/edsoncopque)&nbsp;
 
