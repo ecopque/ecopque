@@ -25,7 +25,7 @@ Some tools I use most and others under study:
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
-![Anki Flashcard](https://img.shields.io/badge/Anki%20Flashcard%20-%23000000.svg?&style=flat&logo=anki&logoColor=white)&nbsp;
+[![Anki Flashcard](https://img.shields.io/badge/Anki-%23000000.svg?&style=flat&logo=anki&logoColor=white)]
 
 
 
