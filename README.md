@@ -23,7 +23,7 @@ Some tools I use most and others under study:
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 
 ## Latest Articles
-- [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files)
+- [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files)&nbsp;
 [![Substack](https://img.shields.io/badge/-Substack-05122A?style=flat&logo=Substack)](https://ecop.substack.com/)
 
 ## My Stats
