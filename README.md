@@ -22,13 +22,13 @@ Some tools I use most and others under study:
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
+
 
 ## Latest Articles
 - [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files)
 
 ## My Stats
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
 
 <!--
 **ecopque/ecopque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
