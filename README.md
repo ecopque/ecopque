@@ -22,6 +22,9 @@ Some tools I use most and others under study:
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 
+![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=python&logoColor=white)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
 
 
