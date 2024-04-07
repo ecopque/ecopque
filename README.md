@@ -25,7 +25,7 @@ Some tools I use most and others under study:
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 
-![Colab](https://img.shields.io/badge/Colab-blue?style=flat&logo=google-colab)
+![Colab](https://img.shields.io/badge/Colab?style=flat&logo=google-colab)
 
 ## Latest Articles
 - [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files)
