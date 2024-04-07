@@ -4,7 +4,7 @@
 
 ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
-![Linktr.ee](https://img.shields.io/badge/-Linktr.ee-00 turquoise?style=flat&logo=Linktree)](https://linktr.ee/edsoncopque)&nbsp;
+[![Linktree](https://img.shields.io/badge/Linktree-your_text_here-blue?style=flat&logo=Linktree)](https://linktr.ee/edsoncopque)
 
 
 ## My Tools
