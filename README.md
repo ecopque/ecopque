@@ -14,10 +14,10 @@ Some tools I use most and others under study:
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=qt)&nbsp;
-![debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
-![debian](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
 
