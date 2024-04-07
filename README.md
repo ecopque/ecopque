@@ -7,6 +7,7 @@
 [![Linktree](https://img.shields.io/badge/Linktree%20(hub)-edsoncopque-canegreen?style=flat&logo=Linktree)](https://linktr.ee/edsoncopque)
 [![OpenPGP](https://img.shields.io/badge/-PGP%20Key-0A0A0A?style=flat&logo=pgpkey)](https://keys.openpgp.org/search?q=ecop%40disroot.org)
 
+[![OpenPGP](https://img.shields.io/badge/-OpenPGP-0A0A0A?style=flat&logo=OpenPGP)](#URL your_key_url)
 ## My Tools
 Some tools I use most and others under study:
 
