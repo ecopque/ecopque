@@ -27,6 +27,8 @@ Some tools I use most and others under study:
 ## Latest Articles
 - [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files)
 
+## My Stats
+
 
 <!--
 **ecopque/ecopque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
