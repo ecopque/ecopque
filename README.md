@@ -6,7 +6,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 [![Linktree](https://img.shields.io/badge/Linktree%20(hub)-edsoncopque-canegreen?style=flat&logo=Linktree)](https://linktr.ee/edsoncopque)
 [![OpenPGP](https://img.shields.io/badge/-PGP%20Key-0A0A0A?style=flat&logo=pgpkey)](https://keys.openpgp.org/search?q=ecop%40disroot.org)
-
+[![Linktree](https://img.shields.io/badge/PGP%20Key-edsoncopque-canegreen?style=flat&logo=PGPKey)](https://linktr.ee/edsoncopque)
 
 ## My Tools
 Some tools I use most and others under study:
