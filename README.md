@@ -4,6 +4,8 @@
 
 ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
+[![Linktr.ee](https://img.shields.io/badge/-Linktr.ee-00 turquoise?style=flat&logo=Linktree)](https://linktr.ee/edsoncopque)&nbsp;
+
 
 ## My Tools
 Some tools I use most and others under study:
