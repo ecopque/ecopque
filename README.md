@@ -4,7 +4,7 @@
 
 ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
-[![Linktree](https://img.shields.io/badge/Linktree%20(hub)-edsoncopque-canegreen?style=flat&logo=Linktree)](https://linktr.ee/edsoncopque)
+[![Linktree](https://img.shields.io/badge/Linktree(hub)-edsoncopque-canegreen?style=flat&logo=Linktree)](https://linktr.ee/edsoncopque)
 [![PGPKey](https://img.shields.io/badge/-PGP%20Key-0A0A0A?style=flat&logo=keybase)](https://keys.openpgp.org/search?q=ecop%40disroot.org)
 
 ## My Tools
