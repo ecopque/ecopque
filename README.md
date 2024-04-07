@@ -22,11 +22,9 @@ Some tools I use most and others under study:
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Debian](https://img.shields.io/badge/-Debian-FF0000?style=flat&logo=debian)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
-
-![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 
 
 ## Latest Articles
