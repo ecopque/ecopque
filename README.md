@@ -6,8 +6,8 @@
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 [![Linktree](https://img.shields.io/badge/Linktree%20(hub)-edsoncopque-canegreen?style=flat&logo=Linktree)](https://linktr.ee/edsoncopque)
 [![PGPKey](https://img.shields.io/badge/-PGP%20Key-0A0A0A?style=flat&logo=pgpkey)](https://keys.openpgp.org/search?q=ecop%40disroot.org)
+[![GPG](https://img.shields.io/badge/-GPG-1A42E4?style=flat&logo=lock)](https://keys.openpgp.org/search?q=ecop%40disroot.org)
 
-[![GPG](https://img.shields.io/badge/-GPG-1A42E4?style=flat&logo=gnupg)](https://keys.openpgp.org/search?q=ecop%40disroot.org)
 
 
 ## My Tools
