@@ -25,6 +25,8 @@ Some tools I use most and others under study:
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
+![LibreOffice](https://img.shields.io/badge/LibreOffice%20-%23018ABE.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
+
 
 
 ## Latest Articles
