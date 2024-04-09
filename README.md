@@ -20,7 +20,7 @@ Some tools I use most and others under study:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
-![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt)&nbsp;
+![Qt6](https://img.shields.io/badge/-Qt6-05122A?style=flat&logo=qt)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
