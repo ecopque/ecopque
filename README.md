@@ -6,7 +6,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 [![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree)](https://linktr.ee/edsoncopque)
 [![PGPKey](https://img.shields.io/badge/-PGP%20Key-0A0A0A?style=flat&logo=mail.ru)](https://keys.openpgp.org/search?q=ecop%40disroot.org)
-![lastcommit](https://img.shields.io/github/last-commit/ecopque/Python%20version-3.11.2-blue)&nbsp;
+![lastcommit](https://img.shields.io/github/Last-update/ecopque/ecopque/Python%20version-3.11.2-blue)&nbsp;
 
 
 ![last_commit](https://img.shields.io/github/last-commit/ecopque/Snehakri022?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)&nbsp;
