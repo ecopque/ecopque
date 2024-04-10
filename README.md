@@ -6,10 +6,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 [![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree)](https://linktr.ee/edsoncopque)
 [![PGPKey](https://img.shields.io/badge/-PGP%20Key-0A0A0A?style=flat&logo=mail.ru)](https://keys.openpgp.org/search?q=ecop%40disroot.org)
-![lastcommit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6/Last%20Update-blue)&nbsp;
-
-
-![last_commit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6?logo=python&label=Last+Update&color=9bf12&&style=flat)&nbsp;
+![last_commit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6?logo=python-red&label=Last+update&color=9bf12&&style=flat)&nbsp;
 
 ## My Tools
 Some tools I use most and others under study:
