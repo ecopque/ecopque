@@ -1,5 +1,5 @@
 ## Hey, you!
-- Visit my hub link and see more. ;-)
+Visit my hub link and see more. ;-)
 
 [![PGPKey](https://img.shields.io/badge/PGP%20Key-0A0A0A?style=flat&logo=mail.ru&logoColor=FF0000)](https://keys.openpgp.org/search?q=ecop%40disroot.org)&nbsp;
 ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
@@ -9,7 +9,7 @@
 
 
 ## My Tools
-- Some tools I use most and others under study:
+Some tools I use most and others under study:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
