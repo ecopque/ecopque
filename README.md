@@ -25,11 +25,8 @@ Some tools I use most and others under study:
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
-[![Freeplane](https://img.shields.io/badge/Freeplane%20-%23134772.svg?&style=flat&logo=freemind&logoColor=white)](https://www.freeplane.org/)
-[![Freeplane](https://img.shields.io/badge/Freeplane%20-%23134772.svg?&style=flat&logo=https://i.imgur.com/your-image.png&logoColor=white)](https://www.freeplane.org/)
-[![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)](URL_DO_SEU_LINK_AQUI)
-[![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)](URL_DO_SEU_LINK_AQUI)
-[![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=airbus&logoColor=white)](URL_DO_SEU_LINK_AQUI)
+[![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=bee&logoColor=white)](URL_DO_SEU_LINK_AQUI)
+
 
 
 
