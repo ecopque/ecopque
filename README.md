@@ -37,7 +37,7 @@ Some tools I use most and others under study:
 ![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=wisdom&logoColor=white)&nbsp;
 ![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=creativity&logoColor=white)&nbsp;
 ![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=innovation&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=office&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=code&logoColor=white)&nbsp;
 
 
 ## Latest Articles
