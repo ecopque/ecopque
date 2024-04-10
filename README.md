@@ -1,11 +1,10 @@
 ## Hey, you!
 - Visit my hub link and see more. ;-)
-- PGP Key: 4003 B364 0EC9 61EE 8045 0F5C B416 F2CB D9C0 5301
 
+[![PGPKey](https://img.shields.io/badge/-PGP%20Key-0A0A0A?style=flat&logo=mail.ru&logoColor=FF0000)](https://keys.openpgp.org/search?q=ecop%40disroot.org)&nbsp;
 ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 ![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 [![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque)&nbsp;
-[![PGPKey](https://img.shields.io/badge/-PGP%20Key-0A0A0A?style=flat&logo=mail.ru&logoColor=FF0000)](https://keys.openpgp.org/search?q=ecop%40disroot.org)&nbsp;
 ![LastCommit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6?logo=python&logoColor=white&label=Last+update&color=9bf12&&style=flat)&nbsp;
 
 
