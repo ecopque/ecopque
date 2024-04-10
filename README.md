@@ -30,6 +30,7 @@ Some tools I use most and others under study:
 [![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=mindmap&logoColor=white)](URL_DO_SEU_LINK_AQUI)
 [![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=mindmap-1&logoColor=white)](URL_DO_SEU_LINK_AQUI)
 [![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=mindmap-2&logoColor=white)](URL_DO_SEU_LINK_AQUI)
+[![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=&logoColor=white)](URL_DO_SEU_LINK_AQUI)
 
 
 
