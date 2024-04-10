@@ -30,14 +30,14 @@ Some tools I use most and others under study:
 ![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=synapse&logoColor=white)&nbsp;
 ![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=dendrite&logoColor=white)&nbsp;
 ![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=neurotransmitter&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=intelligence&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=consciousness&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=memory&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=learning&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=wisdom&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=creativity&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=innovation&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=network&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=cloud&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=globe&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=book&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=dna&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=gears&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=light&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=lightbulb&logoColor=white)&nbsp;
 
 
 ## Latest Articles
