@@ -5,7 +5,7 @@
 ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 [![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree)](https://linktr.ee/edsoncopque)&nbsp;
-![last_commit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6?logo=coding&label=Last+update&color=9bf12&&style=flat)&nbsp;
+![last_commit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6?logo=python&logoColor=white&label=Last+update&color=9bf12&&style=flat)&nbsp;
 [![PGPKey](https://img.shields.io/badge/-PGP%20Key-0A0A0A?style=flat&logo=mail.ru)](https://keys.openpgp.org/search?q=ecop%40disroot.org)&nbsp;
 
 ## My Tools
