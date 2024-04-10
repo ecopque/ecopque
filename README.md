@@ -25,7 +25,20 @@ Some tools I use most and others under study:
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=cortex&logoColor=white)&nbsp;
+
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=neuron&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=synapse&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=dendrite&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=neurotransmitter&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=intelligence&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=consciousness&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=memory&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=learning&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=wisdom&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=creativity&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=innovation&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=planning&logoColor=white)&nbsp;
+
 
 ## Latest Articles
 - [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files)
