@@ -9,7 +9,7 @@
 ![lastcommit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6/Last%20Update-blue)&nbsp;
 
 
-![last_commit](https://img.shields.io/github/last-commit/ecopque/Snehakri022?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)&nbsp;
+![last_commit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)&nbsp;
 
 ## My Tools
 Some tools I use most and others under study:
