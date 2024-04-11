@@ -2,7 +2,7 @@
 Visit my hub link and see more. ;-)
 
 [![PGPKey](https://img.shields.io/badge/PGP%20Key-0A0A0A?style=flat&logo=mail.ru&logoColor=FF0000)](https://keys.openpgp.org/search?q=ecop%40disroot.org)&nbsp;
-[![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque)&nbsp; <br>
+[![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque)&nbsp;
 
 ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 ![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
