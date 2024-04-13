@@ -7,7 +7,7 @@ Visit my hub link and see more. ;-)
 ![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=red)&nbsp;
 ![LastCommit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6?logo=python&logoColor=white&label=Last+update&color=9bf12&&style=flat)&nbsp;
 
-![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=blue)&nbsp;
+![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=yellow)&nbsp;
 
 ## My Tools
 Some tools I use most and others under study:
