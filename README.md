@@ -16,9 +16,7 @@ Some tools I use most and others under study:
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=python&logoColor=white)
-![Qt6](https://img.shields.io/badge/-Qt-Designer-05122A?style=flat&logo=qt)&nbsp; <br>
-![Qt-Designer](https://img.shields.io/badge/Qt-Designer-05122A?style=flat&logo=qt) <br>
-
+![Qt6](https://img.shields.io/badge/-Qt%2DDesigner-05122A?style=flat&logo=qt)&nbsp; <br>
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
