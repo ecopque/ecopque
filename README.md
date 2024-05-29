@@ -23,8 +23,8 @@ Some tools I use most and others under study:
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp; <br>
 
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlserver)&nbsp;
-![SQLite3](https://img.shields.io/badge/SQLite3%20-%23013243.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp; <br>
+![SQLite3](https://img.shields.io/badge/SQLite3%20-%23013243.svg?&style=flat&logo=sqlite3&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL%20-%23013243.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
 
 
 
