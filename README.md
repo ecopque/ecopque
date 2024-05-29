@@ -2,7 +2,7 @@
 Visit my <strong>hub link</strong> and see more. ;-)
 
 - [![PGPKey](https://img.shields.io/badge/PGP%20Key-0A0A0A?style=flat&logo=mail.ru&logoColor=FF0000)](https://keys.openpgp.org/search?q=ecop%40disroot.org)&nbsp;
-[![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque)&nbsp; <br>
+[![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque)&nbsp;
 - ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 ![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=yellow)&nbsp;
 - ![LastCommit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6?logo=python&logoColor=white&label=Last+update&color=9bf12&&style=flat)&nbsp;
@@ -21,11 +21,11 @@ Some tools I use most and others under study:
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp; <br>
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 
 - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp; <br>
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlserver)&nbsp;
 ![SQLite3](https://img.shields.io/badge/SQLite3%20-%23013243.svg?&style=flat&logo=sqlite3&logoColor=white)&nbsp;
