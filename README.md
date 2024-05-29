@@ -23,6 +23,7 @@ Some tools I use most and others under study:
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp; <br>
 
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlserver)&nbsp;
+- ![SQLite3](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
 
 
 
