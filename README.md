@@ -28,6 +28,10 @@ Some tools I use most and others under study:
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql-badge)&nbsp;
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql-icon)&nbsp;
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=database)&nbsp;
+- ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=database-logo)&nbsp;
+- - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=databaselogo)&nbsp;
+
+
 
 
 
