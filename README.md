@@ -22,6 +22,8 @@ Some tools I use most and others under study:
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+- ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
+
 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp; <br>
 - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
