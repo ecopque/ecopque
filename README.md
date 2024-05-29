@@ -21,7 +21,8 @@ Some tools I use most and others under study:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![SQL Logo](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
+
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
 
 
