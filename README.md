@@ -21,15 +21,12 @@ Some tools I use most and others under study:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
-
 - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
-
 - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlserver)&nbsp;
 ![SQLite3](https://img.shields.io/badge/SQLite3%20-%23013243.svg?&style=flat&logo=sqlite3&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL%20-%23013243.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
-
 - ![LibreOffice](https://img.shields.io/badge/LibreOffice%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
 ![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=gnu&logoColor=white)&nbsp;
 
