@@ -20,13 +20,14 @@ Some tools I use most and others under study:
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
-- ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![SQL Logo](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
-
-- ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
-
-
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp; <br>
+
+![Colab](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=googlecolab)&nbsp;
+
+
+
+
+
 - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp; <br>
