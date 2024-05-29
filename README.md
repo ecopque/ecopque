@@ -24,7 +24,7 @@ Some tools I use most and others under study:
 - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
-- ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=calc)&nbsp;
+- ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=hd)&nbsp;
 ![SQLite3](https://img.shields.io/badge/-SQLite3-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 - ![LibreOffice](https://img.shields.io/badge/LibreOffice%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
