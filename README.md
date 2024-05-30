@@ -36,7 +36,7 @@ Some tools I use most and others under study:
 - ![LibreOffice-Calc](https://img.shields.io/badge/Calc%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
 ![LibreOffice-Draw](https://img.shields.io/badge/Draw%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
 ![Draw.io](https://img.shields.io/badge/-Draw.io-05122A?style=flat&logo=appveyor&logoColor=white)&nbsp;
-![Freeplane](https://img.shields.io/badge/-Freeplane-05122A?style=flat&logo=freeplane&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/-Freeplane-05122A?style=flat&logo=gnu&logoColor=white)&nbsp;
 
 ![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=gnu&logoColor=white)&nbsp;
 
