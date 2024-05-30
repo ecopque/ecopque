@@ -27,7 +27,7 @@ Some tools I use most and others under study:
 - ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=serverfault&logoColor=FF0000)&nbsp;
 ![SQLite3](https://img.shields.io/badge/-SQLite3-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![DBeaver](https://img.shields.io/badge/-DBeaver.io-05122A?style=flat&logo=dbeaver&logoColor=white)&nbsp;
+![DBeaver](https://img.shields.io/badge/-DBeaver.io-05122A?style=flat&logo=dbeaver&logoColor=999900)&nbsp;
 
 
 - ![LibreOffice-Calc](https://img.shields.io/badge/Calc%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
