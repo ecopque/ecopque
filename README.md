@@ -5,7 +5,7 @@ Visit my <strong>hub link</strong> and see more. ;-)
 [![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque)&nbsp;
 - ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 ![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=yellow)&nbsp;
-- ![LastCommit](https://img.shields.io/github/last-commit/ecopque/py_pyside6_qt6?logo=python&logoColor=white&label=Last+update&color=9bf12&&style=flat)&nbsp;
+- ![LastCommit](https://img.shields.io/github/last-commit/ecopque/sql?logo=python&logoColor=white&label=Last+update&color=9bf12&&style=flat)&nbsp;
 
 ## My Tools
 Some tools I use most and others under study:
