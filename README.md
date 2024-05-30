@@ -28,14 +28,16 @@ Some tools I use most and others under study:
 ![SQLite3](https://img.shields.io/badge/-SQLite3-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver&logoColor=999900)&nbsp;
-![Draw.io](https://img.shields.io/badge/-Draw.io-05122A?style=flat&logo=appveyor&logoColor=white)&nbsp;
+
 
 
 
 
 - ![LibreOffice-Calc](https://img.shields.io/badge/Calc%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
 ![LibreOffice-Draw](https://img.shields.io/badge/Draw%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
-![LibreOffice-Drawio](https://img.shields.io/badge/Draw.io%20-%23013243.svg?&style=flat&logo=draw&logoColor=white)&nbsp;
+![Draw.io](https://img.shields.io/badge/-Draw.io-05122A?style=flat&logo=appveyor&logoColor=white)&nbsp;
+![Freeplane](https://img.shields.io/badge/-Freeplane-05122A?style=flat&logo=freeplane&logoColor=white)&nbsp;
+
 ![Freeplane](https://img.shields.io/badge/Freeplane%20-%23013243.svg?&style=flat&logo=gnu&logoColor=white)&nbsp;
 
 
