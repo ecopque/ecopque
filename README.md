@@ -36,7 +36,7 @@ Some tools I use most and others under study:
 
 
 ## Latest Articles
-- [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files)
+- [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files) (enUS)
 
 - [![Substack](https://img.shields.io/badge/-Substack-05122A?style=flat&logo=Substack)](https://ecop.substack.com/)
 
