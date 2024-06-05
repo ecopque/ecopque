@@ -36,6 +36,7 @@ Some tools I use most and others under study:
 
 
 ## Latest Articles
+- [Enfrentando Problemas com o Docker e MySQL? Experimente o MariaDB Server: Uma Alternativa Confiável](https://ecop.substack.com/p/enfrentando-problemas-com-o-docker) (ptBR)
 - [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files) (enUS)
 
 - [![Substack](https://img.shields.io/badge/-Substack-05122A?style=flat&logo=Substack)](https://ecop.substack.com/)
