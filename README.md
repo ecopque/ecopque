@@ -46,7 +46,7 @@ Some tools I use most and others under study:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)
 
 ```diff
-   + Free to contribute to interesting projects. Send message via email or Signal.
+   + Free to contribute to interesting projects. Send message via Signal (ecop.01)
 ```
 <!--
 **ecopque/ecopque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
