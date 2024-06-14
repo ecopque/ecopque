@@ -22,7 +22,7 @@ Some tools I use most and others under study:
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver&logoColor=999900)&nbsp;
 ![PyMySQL](https://img.shields.io/badge/-PyMySQL-05122A?style=flat&logo=python&logoColor=999900)&nbsp;
-![Django](https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django&logoColor=AFD095)&nbsp;
+![Django](https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django&logoColor=092E20)&nbsp;
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
