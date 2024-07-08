@@ -10,7 +10,9 @@ Visit my <strong>hub link</strong> and see more. ;-)
 ## Project Updates
 Latest updates from some <strong>repositories</strong>.
 - ![LastCommit](https://img.shields.io/github/last-commit/ecopque/schedule_project?logo=&logoColor=white&label=/Schedule_Project&color=9bf12&&style=flat)&nbsp;
-
+- ![LastCommit](https://img.shields.io/github/last-commit/ecopque/databases?logo=&logoColor=white&label=/Databases&color=9bf12&&style=flat)&nbsp;
+- ![LastCommit](https://img.shields.io/github/last-commit/ecopque/django?logo=&logoColor=white&label=/Djangot&color=9bf12&&style=flat)&nbsp;
+- ![LastCommit](https://img.shields.io/github/last-commit/ecopque/it_systems_projects?logo=&logoColor=white&label=/IT_Systems_Projects&color=9bf12&&style=flat)&nbsp;
 
 ## My Tools
 Some tools I use most and others under study:
