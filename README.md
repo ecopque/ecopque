@@ -9,7 +9,7 @@ Visit my <strong>hub link</strong> and see more. ;-)
 
 ## Project Updates
 Latest updates from some <strong>repositories</strong>.
-- ![LastCommit](https://img.shields.io/github/last-commit/ecopque//schedule_project?logo=&logoColor=white&label=Schedule_Project&color=9bf12&&style=flat)&nbsp;
+- ![LastCommit](https://img.shields.io/github/last-commit/ecopque/schedule_project?logo=&logoColor=white&label=/Schedule_Project&color=9bf12&&style=flat)&nbsp;
 
 
 ## My Tools
