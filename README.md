@@ -7,6 +7,9 @@ Visit my <strong>hub link</strong> and see more. ;-)
 ![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=yellow)&nbsp;
 - ![LastCommit](https://img.shields.io/github/last-commit/ecopque/schedule_project?logo=&logoColor=white&label=Update+project&color=9bf12&&style=flat)&nbsp;
 
+## Project Updates
+Latest updates from some <strong>repositories</strong>.
+
 ## My Tools
 Some tools I use most and others under study:
 
