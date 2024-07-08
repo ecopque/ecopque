@@ -5,10 +5,12 @@ Visit my <strong>hub link</strong> and see more. ;-)
 [![Linktree](https://img.shields.io/badge/Links-edsoncopque-canegreen?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque)&nbsp;
 - ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 ![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=yellow)&nbsp;
-- ![LastCommit](https://img.shields.io/github/last-commit/ecopque/schedule_project?logo=&logoColor=white&label=Update+project&color=9bf12&&style=flat)&nbsp;
+
 
 ## Project Updates
 Latest updates from some <strong>repositories</strong>.
+- ![LastCommit](https://img.shields.io/github/last-commit/ecopque/schedule_project?logo=&logoColor=white&label=Schedule_Project&color=9bf12&&style=flat)&nbsp;
+
 
 ## My Tools
 Some tools I use most and others under study:
