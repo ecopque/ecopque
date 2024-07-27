@@ -45,6 +45,8 @@ Some tools I use most and others under study:
 - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnubash)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
+
 
 
 ## Latest Articles
