@@ -53,6 +53,7 @@ Some tools I use most and others under study:
 
 ## My Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)&nbsp;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
 <!--
