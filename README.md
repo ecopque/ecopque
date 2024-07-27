@@ -52,9 +52,11 @@ Some tools I use most and others under study:
 - [![Substack](https://img.shields.io/badge/-Substack-05122A?style=flat&logo=Substack)](https://ecop.substack.com/)
 
 ## My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ecopque&theme=prussian)](https://git.io/streak-stats)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+
 
 
 <!--
