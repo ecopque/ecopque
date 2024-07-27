@@ -42,7 +42,7 @@ Some tools I use most and others under study:
 ![Freeplane](https://img.shields.io/badge/-Freeplane-05122A?style=flat&logo=gnu&logoColor=white)&nbsp;
 - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnushell)&nbsp;
 
 
 ## Latest Articles
