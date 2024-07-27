@@ -33,7 +33,6 @@ Some tools I use most and others under study:
 ![Qt6](https://img.shields.io/badge/-Qt6--Designer-05122A?style=flat&logo=qt)&nbsp;
 
 - ![Django](https://img.shields.io/badge/-Django-23013243?style=flat&logo=django&logoColor=092E20)&nbsp;
-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-23013243?style=flat&logo=css3&logoColor=092E20)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-23013243?style=flat&logo=html5&logoColor=092E20)&nbsp;
 
