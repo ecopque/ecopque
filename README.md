@@ -46,6 +46,9 @@ Some tools I use most and others under study:
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnubash)&nbsp;
 
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=vscode&logoColor=007ACC)&nbsp;
+- - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=vs-code&logoColor=007ACC)&nbsp;
+
 
 ## Latest Articles
 - [Enfrentando Problemas com o Docker e MySQL? Experimente o MariaDB Server: Uma Alternativa Confiável](https://ecop.substack.com/p/enfrentando-problemas-com-o-docker) (ptBR)
