@@ -24,7 +24,6 @@ Some tools I use most and others under study:
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver&logoColor=999900)&nbsp;
 ![SQLite Browser](https://img.shields.io/badge/-SQLite%20Browser-05122A?style=flat&logo=sqlite)&nbsp;
 ![PyMySQL](https://img.shields.io/badge/-PyMySQL-05122A?style=flat&logo=python&logoColor=999900)&nbsp;
-
 - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -32,22 +31,17 @@ Some tools I use most and others under study:
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![Qt6](https://img.shields.io/badge/-Qt6--Designer-05122A?style=flat&logo=qt)&nbsp;
-
 - ![Django](https://img.shields.io/badge/-Django-23013243?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-23013243?style=flat&logo=css3&logoColor=092E20)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-23013243?style=flat&logo=html5&logoColor=092E20)&nbsp;
-
-
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
-
 - ![LibreOffice-Calc](https://img.shields.io/badge/Calc%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
 ![LibreOffice-Draw](https://img.shields.io/badge/Draw%20-%23013243.svg?&style=flat&logo=libreoffice&logoColor=white)&nbsp;
 ![Draw.io](https://img.shields.io/badge/-Draw.io-05122A?style=flat&logo=appveyor&logoColor=white)&nbsp;
 ![Freeplane](https://img.shields.io/badge/-Freeplane-05122A?style=flat&logo=gnu&logoColor=white)&nbsp;
-
 - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=FF0000)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnubash)&nbsp;
