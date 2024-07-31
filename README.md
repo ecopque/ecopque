@@ -1,4 +1,4 @@
-## Hello, wWelcome!
+## Hello, Welcome!
 Sit down, grab a coffee and let's explore some code and exchange good ideas together.
 
 ## My Links
