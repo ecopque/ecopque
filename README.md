@@ -1,4 +1,7 @@
-## Hey, you!
+## Hello! Welcome!
+Sit down, grab a coffee and let's explore some code and exchange good ideas together.
+
+## My Links
 Visit my <strong>hub link</strong> and see more. ;-)
 
 - [![PGPKey](https://img.shields.io/badge/PGP%20Key-0A0A0A?style=flat&logo=mail.ru&logoColor=FF0000)](https://keys.openpgp.org/search?q=ecop%40disroot.org)&nbsp;
