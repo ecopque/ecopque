@@ -1,5 +1,5 @@
 ## Hello, welcome!
-Sit down, have a coffee and let's explore some code and exchange good ideas together. Here you will find a compilation of codes using Python and its derivatives as the main language. I'm not a fanatic about specific languages, so it's just a matter of time until I understand other languages ​​and expand to new projects.
+Sit down, grab a coffee, and let's explore code together while exchanging great ideas. In this space, you'll find a variety of code, with a focus on Python and its variations. While Python is my main language, I don't limit myself to just one. You'll also find examples of CSS, HTML, Shell, and much more. In the end, it's only a matter of time before I learn new languages and can contribute to even more projects. Let's move forward!
 
 ## My Links
 Visit my <strong>hub link</strong> and see more. ;-)
