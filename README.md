@@ -1,5 +1,5 @@
 ## Hello, welcome!
-Sit down, grab a coffee and let's explore some code and exchange good ideas together.
+Sit down, have a coffee and let's explore some code and exchange good ideas together. Here you will find a compilation of codes using Python and its derivatives as the main language. I'm not a fanatic about specific languages, so it's just a matter of time until I understand other languages ​​and expand to new projects.
 
 ## My Links
 Visit my <strong>hub link</strong> and see more. ;-)
