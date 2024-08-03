@@ -1,5 +1,5 @@
 ## Hello, welcome!
-Sit down, grab a coffee, and let's explore code together while exchanging great ideas. In this space, you'll find a variety of code, with a focus on Python and its variations. While Python is my main language, I don't limit myself to just one. You'll also find examples of CSS, HTML, Shell, and much more. In the end, it's only a matter of time before I learn new languages and can contribute to even more projects. Let's move forward!
+Sit down, grab a coffee and let's explore code together while exchanging ideas. Here, you’ll find a variety of code, with a primary focus on Python and its libraries. Additionally, there are examples in CSS, HTML, Shell and more. Even if we don’t speak the same language (yet), we will certainly find a solution to any challenge that arises.
 
 ## My Links
 Visit my <strong>hub link</strong> and see more. ;-)
