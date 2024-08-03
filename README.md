@@ -1,8 +1,8 @@
 ## Hello, welcome!
-Sit down, grab a coffee and let's explore code together while exchanging ideas. Here, you’ll find a variety of code, with a primary focus on Python and its libraries. Additionally, there are examples in CSS, HTML, Shell and more. Even if we don’t speak the same language (yet), we will certainly find a solution to any challenge that arises.
+Sit down, grab a coffee and let's explore code together while exchanging ideas. Here, you’ll find a variety of code, with a primary focus on Python and its libraries. Additionally, there are examples in CSS, HTML, Shell and more. Even if we don’t speak the same language (yet), we will certainly find a solution to any challenge that arises. ;-)
 
 ## My Links
-Visit my <strong>hub link</strong> and see more. ;-)
+Visit my <strong>hub link</strong> and see more.
 
 - [![PGPKey](https://img.shields.io/badge/PGP%20Key-0A0A0A?style=flat&logo=mail.ru&logoColor=FF0000)](https://keys.openpgp.org/search?q=ecop%40disroot.org)&nbsp;
 [![Linktree](https://img.shields.io/badge/Links-edsoncopque-blue?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque)&nbsp;
