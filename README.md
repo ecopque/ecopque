@@ -27,6 +27,7 @@ Some tools I use most and others under study:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Nginxs](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver&logoColor=999900)&nbsp;
 ![SQLite Browser](https://img.shields.io/badge/-SQLite%20Browser-05122A?style=flat&logo=sqlite)&nbsp;
 ![PyMySQL](https://img.shields.io/badge/-PyMySQL-05122A?style=flat&logo=python&logoColor=999900)&nbsp;
