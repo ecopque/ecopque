@@ -1,7 +1,7 @@
 ## Hello, welcome!
 Sit down, grab a coffee and let's explore code together while exchanging ideas. Here, you’ll find a variety of code, with a primary focus on **#Python** and its libraries. Additionally, there are examples in **#CSS**, **#HTML**, **#Shell** and more. Even if we don’t speak the same language (yet), we will certainly find a solution to any challenge that arises. ;-)
 
-Some Python libs: **numpy, math, pandas, pymysql, os, decimal, re, sys (construction...)**
+Some Python libs: **numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, itertools, functools, types, json, datetime, requests, bs4, beautifulsoup, django, pathlib, log, abc, adtv2, contextlib, enum, dataclasses, collections, pytz, dateutil, calendar, locale, ...**
 
 ## My Links
 Visit my <strong>hub link</strong> and see more.
