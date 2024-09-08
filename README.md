@@ -40,9 +40,6 @@ Some tools I use most and others under study:
 ![HTML](https://img.shields.io/badge/CSS%20-%23150458.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![Qt6](https://img.shields.io/badge/-Qt6--Designer-05122A?style=flat&logo=qt)&nbsp;
-- ![Django](https://img.shields.io/badge/-Django-23013243?style=flat&logo=django&logoColor=092E20)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-23013243?style=flat&logo=css3&logoColor=092E20)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-23013243?style=flat&logo=html5&logoColor=092E20)&nbsp;
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
