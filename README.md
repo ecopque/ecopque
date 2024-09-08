@@ -36,7 +36,7 @@ Some tools I use most and others under study:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/Django%20-%23013243.svg?&style=flat&logo=django&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS%20-%23150458.svg?&style=flat&logo=css&logoColor=white)&nbsp;
 ![PySide6](https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![Qt6](https://img.shields.io/badge/-Qt6--Designer-05122A?style=flat&logo=qt)&nbsp;
 - ![Django](https://img.shields.io/badge/-Django-23013243?style=flat&logo=django&logoColor=092E20)&nbsp;
