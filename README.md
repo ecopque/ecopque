@@ -1,7 +1,7 @@
 ## Hello, welcome!
 Sit down, grab a coffee and let's explore code together while exchanging ideas. Here, you’ll find a variety of code, with a primary focus on **#Python** and its libraries. Additionally, there are examples in **#CSS**, **#HTML**, **#Shell** and more. Even if we don’t speak the same language (yet), we will certainly find a solution to any challenge that arises. ;-)
 
-Some Python libs: **numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, itertools, functools, types, json, datetime, requests, bs4, beautifulsoup, django, pathlib, log, abc, adtv2, contextlib, enum, dataclasses, collections, pytz, dateutil, calendar, locale, shutil, pprint, typing, csv, random, secrets, string, dotenv, email.mime.multipart, email.mime.text, smtplib, zipfile, argparse, requests, subprocess, time, sleep, threading, pypdf2, openpyxl, pil, pyside6, utils, qdarktheme, sqlite3, cursors, random.**
+Some Python libs: **numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, itertools, functools, types, json, datetime, requests, bs4, beautifulsoup, django, pathlib, log, abc, adtv2, contextlib, enum, dataclasses, collections, pytz, dateutil, calendar, locale, shutil, pprint, typing, csv, random, secrets, string, dotenv, email.mime.multipart, email.mime.text, smtplib, zipfile, argparse, requests, subprocess, time, sleep, threading, pypdf2, openpyxl, pil, pyside6, utils, qdarktheme, sqlite3, cursors, random, | Q.**
 
 ## My Links
 Visit my <strong>hub link</strong> and see more.
