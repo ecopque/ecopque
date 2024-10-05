@@ -14,9 +14,11 @@ Visit my <strong>hub link</strong> and see more.
 
 ## Project Updates
 Latest updates on repositories in use.
+[LastCommit-Ecommerce_Project](https://img.shields.io/github/last-commit/ecopque/ecommerce_project?logo=&logoColor=white&label=/ecommerce_project&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Ecommerce_Project](https://img.shields.io/github/last-commit/ecopque/ecommerce_project?logo=&logoColor=white&label=/ecommerce_project&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Blog_Project](https://img.shields.io/github/last-commit/ecopque/blog_project?logo=&logoColor=white&label=/blog_project&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Schedule_Project](https://img.shields.io/github/last-commit/ecopque/schedule_project?logo=&logoColor=white&label=/schedule_project&color=9bf12&&style=flat)&nbsp;
+
 
 ## My Tools
 Some tools I use most and others under study:
