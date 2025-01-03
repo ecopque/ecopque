@@ -1,7 +1,6 @@
 ## Hello, welcome!
 Sit down, grab a coffee and let's explore code together while exchanging ideas. Here, you’ll find a variety of code, with a primary focus on **#Python** and its libraries. Additionally, there are examples in **#CSS**, **#HTML**, **#Shell** and more. Even if we don’t speak the same language (yet), we will certainly find a solution to any challenge that arises. ;-)
 
-![readme](https://github.com/ecopque/ecopque/blob/main/Edson_Copque_-_GitHub_-_Diagram.png)
 <div align="center">
   <img src="https://github.com/ecopque/ecopque/blob/main/Edson_Copque_-_GitHub_-_Diagram.png" alt="readme" />
 </div>
