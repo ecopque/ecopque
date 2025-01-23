@@ -7,7 +7,7 @@ Sit down, grab a coffee and let's explore code together while exchanging ideas. 
 
 Some Python libs: **numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, itertools, functools, types, json, datetime, requests, bs4, beautifulsoup, django, pathlib, log, abc, adtv2, contextlib, enum, dataclasses, collections, pytz, dateutil, calendar, locale, shutil, pprint, typing, csv, random, secrets, string, dotenv, email.mime.multipart, email.mime.text, smtplib, zipfile, argparse, requests, subprocess, time, sleep, threading, pypdf2, openpyxl, pil, pyside6, utils, qdarktheme, sqlite3, cursors, random, | Q.**
 
-* Studying there tecnologies.
+'*' Studying there tecnologies.
 
 ## My Links
 Visit my <strong>hub link</strong> and see more.
