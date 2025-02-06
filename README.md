@@ -20,6 +20,7 @@ Visit my <strong>hub link</strong> and see more.
 
 ## Project Updates
 Latest updates on repositories in use.
+- ![LastCommit-Socket-Transfer](https://img.shields.io/github/last-commit/ecopque/socket_transfer?logo=&logoColor=white&label=/socket_transfer&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Registration-Login-Project](https://img.shields.io/github/last-commit/ecopque/registration_and_login_project?logo=&logoColor=white&label=/registration_and_login_project&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Grocery-Store-Project](https://img.shields.io/github/last-commit/ecopque/grocerystore_project?logo=&logoColor=white&label=/grocerystore_project&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Ecommerce_Project](https://img.shields.io/github/last-commit/ecopque/ecommerce_project?logo=&logoColor=white&label=/ecommerce_project&color=9bf12&&style=flat)&nbsp;
