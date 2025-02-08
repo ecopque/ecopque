@@ -28,7 +28,7 @@ Latest updates on repositories in use.
 - ![LastCommit-Schedule_Project](https://img.shields.io/github/last-commit/ecopque/schedule_project?logo=&logoColor=white&label=/schedule_project&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-VisualCalc](https://img.shields.io/github/last-commit/ecopque/visualcalc_calculator?logo=&logoColor=white&label=/visualcalc&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-simple_banking-system](https://img.shields.io/github/last-commit/ecopque/simple_banking_system?logo=&logoColor=white&label=/simple_banking_system&color=9bf12&&style=flat)&nbsp;
-- - ![LastCommit-cpf-generator](https://img.shields.io/github/last-commit/ecopque/cpf_generator?logo=&logoColor=white&label=/cpf_generator&color=9bf12&&style=flat)&nbsp;
+- ![LastCommit-cpf-generator](https://img.shields.io/github/last-commit/ecopque/cpf_generator?logo=&logoColor=white&label=/cpf_generator&color=9bf12&&style=flat)&nbsp;
 
 
 ## Latest Articles
