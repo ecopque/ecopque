@@ -31,6 +31,7 @@ Latest updates on repositories in use.
 - ![LastCommit-cpf-generator](https://img.shields.io/github/last-commit/ecopque/cpf_generator?logo=&logoColor=white&label=/cpf_generator&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-cpf-validator](https://img.shields.io/github/last-commit/ecopque/cpf_validator?logo=&logoColor=white&label=/cpf_validator&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-send_smtp_email](https://img.shields.io/github/last-commit/ecopque/send_smtp_email?logo=&logoColor=white&label=/send_smtp_email&color=9bf12&&style=flat)&nbsp;
+- ![LastCommit-secret-word-game](https://img.shields.io/github/last-commit/ecopque/secret_word_game?logo=&logoColor=white&label=/secret_word_game&color=9bf12&&style=flat)&nbsp;
 
 
 ## Latest Articles
