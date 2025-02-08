@@ -26,6 +26,8 @@ Latest updates on repositories in use.
 - ![LastCommit-Ecommerce_Project](https://img.shields.io/github/last-commit/ecopque/ecommerce_project?logo=&logoColor=white&label=/ecommerce_project&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Blog_Project](https://img.shields.io/github/last-commit/ecopque/blog_project?logo=&logoColor=white&label=/blog_project&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Schedule_Project](https://img.shields.io/github/last-commit/ecopque/schedule_project?logo=&logoColor=white&label=/schedule_project&color=9bf12&&style=flat)&nbsp;
+- ![LastCommit-VisualCalc](https://img.shields.io/github/last-commit/ecopque/visualcalc?logo=&logoColor=white&label=/visualcalc_calculator&color=9bf12&&style=flat)&nbsp;
+
 
 
 ## Latest Articles
