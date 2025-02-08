@@ -32,7 +32,7 @@ Latest updates on repositories in use.
 - ![LastCommit-cpf-validator](https://img.shields.io/github/last-commit/ecopque/cpf_validator?logo=&logoColor=white&label=/cpf_validator&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-send_smtp_email](https://img.shields.io/github/last-commit/ecopque/send_smtp_email?logo=&logoColor=white&label=/send_smtp_email&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-secret-word-game](https://img.shields.io/github/last-commit/ecopque/secret_word_game?logo=&logoColor=white&label=/secret_word_game&color=9bf12&&style=flat)&nbsp;
-
+- ![LastCommit-top-word-detector](https://img.shields.io/github/last-commit/ecopque/top_word_detector?logo=&logoColor=white&label=/top_word_detector&color=9bf12&&style=flat)&nbsp;
 
 ## Latest Articles
 - [Enfrentando Problemas com o Docker e MySQL? Experimente o MariaDB Server: Uma Alternativa Confiável](https://ecop.substack.com/p/enfrentando-problemas-com-o-docker) (ptBR)
