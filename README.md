@@ -1,5 +1,5 @@
 ## Hello, welcome!
-Sit down, grab a coffee, and let's explore code together while exchanging ideas. In this space, you’ll encounter a wide range of projects with a strong focus on #Python and its powerful libraries. We'll dive deep into back-end development, working with SQL, Django, FastAPI, PySide6, REST APIs, AJAX, and more. Even if we don’t speak the same language (yet), we’ll always find a solution to every challenge that comes our way. ;-)
+Sit down, grab a coffee, and let's explore code together while exchanging ideas. In this space, you’ll encounter a wide range of projects with a strong focus on **#Python** and its powerful libraries. We'll dive deep into **back-end development**, working with **SQL, Django, FastAPI, PySide6, REST APIs, AJAX,** and more. Even if we don’t speak the same language (yet), we’ll always find a solution to every challenge that comes our way. ;-)
 
 <div align="center">
   <img src="https://github.com/ecopque/ecopque/blob/main/Edson_Copque_-_GitHub_-_Diagram.png" alt="readme" />
