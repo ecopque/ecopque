@@ -2,7 +2,7 @@
 Sit down, grab a coffee, and let's explore code together while exchanging ideas. In this space, you’ll encounter a wide range of projects with a strong focus on **#Python** and its powerful libraries. We'll dive deep into **back-end development**, working with **SQL, Django, FastAPI, PySide6, REST APIs, AJAX,** and more. Even if we don’t speak the same language (yet), we’ll always find a solution to every challenge that comes our way. ;-)
 
 <div align="center">
-  <img src="https://github.com/ecopque/ecopque/blob/main/Edson_Copque_-_GitHub_-_Diagram.png" alt="readme" />
+  <img src="https://github.com/ecopque/ecopque/blob/main/Edson_Copque_-_GitHub_-_Diagram3.png" alt="readme" />
 </div>
 
 Some Python libs: **numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, itertools, functools, types, json, datetime, requests, bs4, beautifulsoup, django, pathlib, log, abc, adtv2, contextlib, enum, dataclasses, collections, pytz, dateutil, calendar, locale, shutil, pprint, typing, csv, random, secrets, string, dotenv, email.mime.multipart, email.mime.text, smtplib, zipfile, argparse, requests, subprocess, time, sleep, threading, pypdf2, openpyxl, pil, pyside6, utils, qdarktheme, sqlite3, cursors, random, | Q, sqlalchemy, hashlib.**
