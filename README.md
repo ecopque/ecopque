@@ -21,6 +21,7 @@ Visit my <strong>hub link</strong> and see more.
 ## Project Updates
 Latest updates on repositories in use.
 - ![LastCommit-programming-challenge](https://img.shields.io/github/last-commit/ecopque/programming_challenges?logo=&logoColor=white&label=/programming_challenges&color=9bf12&&style=flat)&nbsp;
+- ![LastCommit-ai-credit-risk](https://img.shields.io/github/last-commit/ecopque/ai_credit_risk_predictiongroup_chat?logo=&logoColor=white&label=/ai_credit_risk_prediction&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Group-Chat](https://img.shields.io/github/last-commit/ecopque/group_chat?logo=&logoColor=white&label=/group_chat&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Socket-Transfer](https://img.shields.io/github/last-commit/ecopque/socket_transfer?logo=&logoColor=white&label=/socket_transfer&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-Registration-Login-Project](https://img.shields.io/github/last-commit/ecopque/registration_and_login_project?logo=&logoColor=white&label=/registration_and_login_project&color=9bf12&&style=flat)&nbsp;
