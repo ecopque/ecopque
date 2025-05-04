@@ -26,22 +26,10 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
 ## Code-First Philosophy, Library-Ready When Needed: 
 Although I prefer writing clean, native Python code with minimal dependencies, I also have hands-on experience with a wide range of powerful libraries when the project demands it.
 
-- Scientific and Numerical Computing: numpy, math, decimal.
-- Data Analysis and Manipulation: pandas.
-- Database and ORM: pymysql, sqlite3, sqlalchemy, django, cursors.
-- Web Scraping and HTTP Requests: requests, bs4, BeautifulSoup.
-- Email Handling: email.mime.multipart, email.mime.text, smtplib.
-- File and Directory Management: os, pathlib, shutil, zipfile.
-- Parsing and Text Processing: re, json, csv, string, locale.
-- Date and Time: datetime, calendar, pytz, dateutil.
-- Security and Hashing: secrets, hashlib.
-- Standard Library Utilities: sys, importlib, copy, itertools, functools, types, pprint, abc, contextlib, enum, dataclasses, collections, typing, argparse, subprocess, time, sleep, threading.
-- Environment and Configuration: dotenv.
-- PDF and Excel Processing: pypdf2, openpyxl.
-- GUI and Visual Components: pil, pyside6, qdarktheme.
-- Custom or Project-Specific Modules: utils, log, adtv2, Q.
 
-## 🧱 Project Dependencies by Category
+## 🧱 Code-First Philosophy, Library-Ready When Needed:
+Although I prefer writing clean, native Python code with minimal dependencies, I also have hands-on experience with a wide range of powerful libraries when the project demands it.
+
 
 | **Category**                        | **Packages**                                                                                     | **Description**                                                                 |
 |------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
