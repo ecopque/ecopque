@@ -47,6 +47,7 @@ Visit my <strong>hub link</strong> and see more.
 - ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 - ![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=yellow)&nbsp;
 
+---
 
 ## Project Updates
 Latest updates on repositories in use.
@@ -68,11 +69,15 @@ Latest updates on repositories in use.
 - ![LastCommit-secret-word-game](https://img.shields.io/github/last-commit/ecopque/secret_word_game?logo=&logoColor=white&label=/secret_word_game&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-top-word-detector](https://img.shields.io/github/last-commit/ecopque/top_word_detector?logo=&logoColor=white&label=/top_word_detector&color=9bf12&&style=flat)&nbsp;
 
+---
+
 ## Latest Articles
 - [Enfrentando Problemas com o Docker e MySQL? Experimente o MariaDB Server: Uma Alternativa Confiável](https://ecop.substack.com/p/enfrentando-problemas-com-o-docker) (ptBR)
 - [PyPDF2 to Manipulate PDF Files in Python](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files) (enUS)
 
 - [![Substack](https://img.shields.io/badge/-Substack-05122A?style=flat&logo=Substack)](https://ecop.substack.com/)
+
+---
 
 ## My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
