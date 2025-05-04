@@ -23,7 +23,9 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
 
 ---
 
-## Some Python libs: 
+## Code-First Philosophy, Library-Ready When Needed: 
+Although I prefer writing clean, native Python code with minimal dependencies, I also have hands-on experience with a wide range of powerful libraries when the project demands it.
+
 - Scientific and Numerical Computing: numpy, math, decimal.
 - Data Analysis and Manipulation: pandas.
 - Database and ORM: pymysql, sqlite3, sqlalchemy, django, cursors.
