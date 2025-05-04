@@ -5,7 +5,9 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
   <img src="https://github.com/ecopque/ecopque/blob/main/Edson_Copque_-_GitHub_-_Diagram3.png" alt="readme" />
 </div>
 
-Some Python libs: **numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, itertools, functools, types, json, datetime, requests, bs4, beautifulsoup, django, pathlib, log, abc, adtv2, contextlib, enum, dataclasses, collections, pytz, dateutil, calendar, locale, shutil, pprint, typing, csv, random, secrets, string, dotenv, email.mime.multipart, email.mime.text, smtplib, zipfile, argparse, requests, subprocess, time, sleep, threading, pypdf2, openpyxl, pil, pyside6, utils, qdarktheme, sqlite3, cursors, random, | Q, sqlalchemy, hashlib.**
+## Some Python libs: 
+numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, itertools, functools, types, json, datetime, requests, bs4, beautifulsoup, django, pathlib, log, abc, adtv2, contextlib, enum, dataclasses, collections, pytz, dateutil, calendar, locale, shutil, pprint, typing, csv, random, secrets, string, dotenv, email.mime.multipart, email.mime.text, smtplib, zipfile, argparse, requests, subprocess, time, sleep, threading, pypdf2, openpyxl, pil, pyside6, utils, qdarktheme, sqlite3, cursors, random, | Q, sqlalchemy, hashlib.
+
 
 '*' Studying these technologies.
 
