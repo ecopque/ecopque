@@ -24,7 +24,20 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
 ---
 
 ## Some Python libs: 
-numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, itertools, functools, types, json, datetime, requests, bs4, beautifulsoup, django, pathlib, log, abc, adtv2, contextlib, enum, dataclasses, collections, pytz, dateutil, calendar, locale, shutil, pprint, typing, csv, random, secrets, string, dotenv, email.mime.multipart, email.mime.text, smtplib, zipfile, argparse, requests, subprocess, time, sleep, threading, pypdf2, openpyxl, pil, pyside6, utils, qdarktheme, sqlite3, cursors, random, | Q, sqlalchemy, hashlib.
+- Scientific and Numerical Computing: numpy, math, decimal.
+- Data Analysis and Manipulation: pandas.
+- Database and ORM: pymysql, sqlite3, sqlalchemy, django, cursors.
+- Web Scraping and HTTP Requests: requests, bs4, BeautifulSoup.
+- Email Handling: email.mime.multipart, email.mime.text, smtplib.
+- File and Directory Management: os, pathlib, shutil, zipfile.
+- Parsing and Text Processing: re, json, csv, string, locale.
+- Date and Time: datetime, calendar, pytz, dateutil.
+- Security and Hashing: secrets, hashlib.
+- Standard Library Utilities: sys, importlib, copy, itertools, functools, types, pprint, abc, contextlib, enum, dataclasses, collections, typing, argparse, subprocess, time, sleep, threading.
+- Environment and Configuration: dotenv.
+- PDF and Excel Processing: pypdf2, openpyxl.
+- GUI and Visual Components: pil, pyside6, qdarktheme.
+- Custom or Project-Specific Modules: utils, log, adtv2, Q.
 
 ---
 
