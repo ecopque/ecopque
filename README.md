@@ -23,10 +23,6 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
 
 ---
 
-## Code-First Philosophy, Library-Ready When Needed: 
-Although I prefer writing clean, native Python code with minimal dependencies, I also have hands-on experience with a wide range of powerful libraries when the project demands it.
-
-
 ## 🧱 Code-First Philosophy, Library-Ready When Needed:
 Although I prefer writing clean, native Python code with minimal dependencies, I also have hands-on experience with a wide range of powerful libraries when the project demands it.
 
