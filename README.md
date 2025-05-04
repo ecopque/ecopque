@@ -9,24 +9,22 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
 
 ## My Technologies:
 - Programming Logic: Python, HTML, CSS, SQL, Shell.
-- Frameworks and Libraries: Django, FastAPI, Ajax, MVC, ORM.
+- Frameworks and Libraries: Django, FastAPI, Ajax*, MVC, ORM.
 - Databases: Postgre, MySQL, MariaDB, SQLite.
 - Communication Protocols and Sockets: TCP/IP, Client/Server.
 - File Handling with Python: Binary, Reading, Writing, Sending, Receiving.
 - Development Tools: Docker, Compose, Nginx, Gunicorn, GIT, Github.
 - Infrastructure: GNU/Linux, Debian, GCP.
-- Methodologies: TDD, Scrum, Kanban.
-- APIs and AI: Rest API, Google API, OpenAI API, DeepSeek API.
+- Methodologies: TDD, Scrum*, Kanban*.
+- APIs and AI: Rest API*, Google API, OpenAI API, DeepSeek API.
 - Testing and Debug: Unit Testing, Debbuging.
+
+'*' Studying these technologies.
 
 ---
 
 ## Some Python libs: 
 numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, itertools, functools, types, json, datetime, requests, bs4, beautifulsoup, django, pathlib, log, abc, adtv2, contextlib, enum, dataclasses, collections, pytz, dateutil, calendar, locale, shutil, pprint, typing, csv, random, secrets, string, dotenv, email.mime.multipart, email.mime.text, smtplib, zipfile, argparse, requests, subprocess, time, sleep, threading, pypdf2, openpyxl, pil, pyside6, utils, qdarktheme, sqlite3, cursors, random, | Q, sqlalchemy, hashlib.
-
----
-
-'*' Studying these technologies.
 
 ---
 
