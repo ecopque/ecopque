@@ -4,6 +4,7 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
 <div align="center">
   <img src="https://github.com/ecopque/ecopque/blob/main/Edson_Copque_-_GitHub_-_Diagram3.png" alt="readme" />
 </div>
+
 ---
 
 ## Some Python libs: 
