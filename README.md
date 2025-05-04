@@ -28,6 +28,17 @@ numpy, math, pandas, pymysql, os, decimal, re, sys, pprint, importlib, copy, ite
 
 '*' Studying these technologies.
 
+---
+
+## Project Architecture
+A high-level overview of the system's structure, illustrating how components are organized and how they interact to ensure scalability, maintainability, and clarity in development.
+
+<div align="center">
+  <img src="https://github.com/ecopque/ecopque/blob/main/Code_-_Python_-_New_Nanking_System.png" alt="readme" />
+</div>
+
+---
+
 ## My Links
 Visit my <strong>hub link</strong> and see more.
 
