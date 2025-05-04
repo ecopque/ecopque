@@ -7,19 +7,22 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
 
 ---
 
-## My Technologies:
-- Programming Logic: Python, HTML, CSS, SQL, Shell.
-- Frameworks and Libraries: Django, FastAPI, Ajax*, MVC, ORM.
-- Databases: Postgre, MySQL, MariaDB, SQLite.
-- Communication Protocols and Sockets: TCP/IP, Client/Server.
-- File Handling with Python: Binary, Reading, Writing, Sending, Receiving.
-- Development Tools: Docker, Compose, Nginx, Gunicorn, GIT, Github.
-- Infrastructure: GNU/Linux, Debian, GCP.
-- Methodologies: TDD, Scrum*, Kanban*.
-- APIs and AI: Rest API*, Google API, OpenAI API, DeepSeek API.
-- Testing and Debug: Unit Testing, Debbuging.
+## 🧑‍💻 My Technologies
 
-'*' Studying these technologies.
+| **Category**                       | **Technologies**                                                                                     | **Description**                                                                |
+|-----------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 🧠 Programming Logic              | `Python`, `HTML`, `CSS`, `SQL`, `Shell`                                                               | Core programming and markup languages for web development and scripting.       |
+| ⚙️ Frameworks and Libraries      | `Django`, `FastAPI`, `Ajax*`, `MVC`, `ORM`                                                           | Frameworks and patterns for web development and data manipulation.             |
+| 🗃️ Databases                     | `PostgreSQL`, `MySQL`, `MariaDB`, `SQLite`                                                            | Database management systems for structured data storage and retrieval.         |
+| 🌐 Communication Protocols & Sockets | `TCP/IP`, `Client/Server`                                                                             | Protocols and architecture for network communication and server interaction.   |
+| 📂 File Handling with Python      | `Binary`, `Reading`, `Writing`, `Sending`, `Receiving`                                                 | Handling files with Python, including reading, writing, and network transfer.  |
+| 🛠️ Development Tools             | `Docker`, `Compose`, `Nginx`, `Gunicorn`, `GIT`, `GitHub`                                            | Tools for containerization, version control, and deployment.                   |
+| 🌍 Infrastructure                | `GNU/Linux`, `Debian`, `GCP`                                                                          | Operating systems and cloud platforms for deploying and managing applications. |
+| 📋 Methodologies                 | `TDD`, `Scrum*`, `Kanban*`                                                                            | Development methodologies for agile and test-driven development.               |
+| 🌐 APIs and AI                   | `Rest API*`, `Google API`, `OpenAI API`, `DeepSeek API`                                               | APIs for web services and artificial intelligence integration.                  |
+| 🧪 Testing and Debugging          | `Unit Testing`, `Debugging`                                                                           | Tools and techniques for testing and debugging code.                           |
+
+> *Studying these technologies.*
 
 ---
 
