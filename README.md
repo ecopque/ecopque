@@ -124,12 +124,12 @@ Get a glimpse of my development activity, consistency, and top languages. These 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecopque&theme=prussian&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ecopque&show_icons=true&theme=prussian" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ecopque&show_icons=true&theme=prussian" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecopque&theme=prussian&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
