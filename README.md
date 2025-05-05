@@ -1,9 +1,9 @@
-## Hello, and welcome!  
+## 😊 Hello, and welcome!  
 Take a seat, grab a coffee, and let’s embark on a coding journey together while exchanging ideas. In this space, we’ll explore a variety of projects, always with a focus on creativity and problem-solving. Regardless of the challenges that come our way, we’ll tackle them together and find a solution. Ready? Let’s dive in! ;-)
 
 ---
 
-## ### 🛠️ "The Map of My Tools"
+## 🛠️ "The Map of My Tools"
 
 <div align="center">
   <img src="https://github.com/ecopque/ecopque/blob/main/Edson_Copque_-_GitHub_-_Diagram3.png" alt="readme" />
