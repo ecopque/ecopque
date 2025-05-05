@@ -78,7 +78,7 @@ Feel free to click on the links above to learn more! :-)
 
 ---
 
-## Project Updates
+## 🔧 Project Updates
 Latest updates on repositories in use.
 - ![LastCommit-programming-challenge](https://img.shields.io/github/last-commit/ecopque/programming_challenges?logo=&logoColor=white&label=/programming_challenges&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-news-analysis-system-with-ai](https://img.shields.io/github/last-commit/ecopque/news_analysis_system_with_ai?logo=&logoColor=white&label=/news_analysis_system_with_ai&color=9bf12&&style=flat)&nbsp;
