@@ -113,6 +113,17 @@ Latest updates on active repositories, including project descriptions and last c
 
 - [![Substack](https://img.shields.io/badge/-Substack-05122A?style=flat&logo=Substack)](https://ecop.substack.com/)
 
+## 📝 Latest Articles  
+Recent blog posts covering development insights and tools.
+
+| Title | Language | Link |
+|-------|----------|------|
+| Enfrentando Problemas com o Docker e MySQL? Experimente o MariaDB Server: Uma Alternativa Confiável | 🇧🇷 pt-BR | [Read on Substack](https://ecop.substack.com/p/enfrentando-problemas-com-o-docker) |
+| PyPDF2 to Manipulate PDF Files in Python | 🇺🇸 en-US | [Read on Substack](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files) |
+
+[![Substack](https://img.shields.io/badge/-Substack-05122A?style=flat&logo=Substack)](https://ecop.substack.com/)
+
+
 ---
 
 ## My Stats
