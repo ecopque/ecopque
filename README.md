@@ -7,7 +7,8 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
 
 ---
 
-## 🧑‍💻 My Technologies
+## 🧑‍💻 My Technologies:
+With a solid foundation in Python and various complementary technologies, I have explored different areas of development, always striving to improve and learn new approaches. Here are the tools and technologies I am currently working with.
 
 | **Category**                       | **Technologies**                                                                                     | **Description**                                                                |
 |-----------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
