@@ -123,6 +123,12 @@ Recent blog posts covering development insights and tools.
 ## My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
+## 📊 My Stats  
+Insights into my coding activity and language preferences.
+
+| Metric | Data |
+|--------|------|
+| **Top Languages** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian) |
 
 
 
