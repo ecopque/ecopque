@@ -11,7 +11,7 @@ Take a seat, grab a coffee, and let’s embark on a coding journey together whil
 
 ---
 
-## 🧑‍💻 My Technologies:
+## 🧑‍💻 My Technologies
 With a solid foundation in Python and various complementary technologies, I have explored different areas of development, always striving to improve and learn new approaches. Here are the tools and technologies I am currently working with.
 
 | **Category**                       | **Technologies**                                                                                     | **Description**                                                                |
@@ -31,7 +31,7 @@ With a solid foundation in Python and various complementary technologies, I have
 
 ---
 
-## 🧱 Code-First Philosophy, Library-Ready When Needed:
+## 🧱 Code-First Philosophy, Library-Ready When Needed
 Although I prefer writing clean, native Python code with minimal dependencies, I also have hands-on experience with a wide range of powerful libraries when the project demands it.
 
 
@@ -101,10 +101,6 @@ Latest updates on active repositories, including project descriptions and last c
 | [Secret Word Game](https://github.com/ecopque/secret_word_game) | Terminal-based guessing game in Python. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/secret_word_game?color=9bf12&style=flat) |
 | [Top Word Detector](https://github.com/ecopque/top_word_detector) | Identifies the most frequent words in a text. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/top_word_detector?color=9bf12&style=flat) |
 
-
-
-
-
 ---
 
 ## 📝 Latest Articles  
@@ -116,7 +112,6 @@ Recent blog posts covering development insights and tools.
 | PyPDF2 to Manipulate PDF Files in Python | 🇺🇸 en-US | [Read on Substack](https://ecop.substack.com/p/pypdf2-to-manipulate-pdf-files) |
 
 [![Substack](https://img.shields.io/badge/-Substack-05122A?style=flat&logo=Substack)](https://ecop.substack.com/)
-
 
 ---
 
