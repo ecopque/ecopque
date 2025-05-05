@@ -3,7 +3,7 @@ Take a seat, grab a coffee, and let’s embark on a coding journey together whil
 
 ---
 
-## 🛠️ "The Map of My Tools"
+## 🛠️ The Map of My Tools
 
 <div align="center">
   <img src="https://github.com/ecopque/ecopque/blob/main/Edson_Copque_-_GitHub_-_Diagram3.png" alt="readme" />
