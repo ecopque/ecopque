@@ -55,7 +55,7 @@ Although I prefer writing clean, native Python code with minimal dependencies, I
 
 ---
 
-## Project Architecture
+## 🔧 Project Architecture
 A high-level overview of the system's structure, illustrating how components are organized and how they interact to ensure scalability, maintainability, and clarity in development.
 
 <div align="center">
