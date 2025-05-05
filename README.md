@@ -72,6 +72,19 @@ Visit my <strong>hub link</strong> and see more.
 - ![versionpython :3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue)&nbsp;
 - ![ProfileCount](https://komarev.com/ghpvc/?username=ecopque&color=yellow)&nbsp;
 
+## 🌐 My Links  
+Explore and connect with me through these links!
+
+| 🔗 **Link**        | 🔎 **Description**                      | 📅 **Details**              |
+|--------------------|----------------------------------------|-----------------------------|
+| [![PGP Key](https://img.shields.io/badge/PGP%20Key%20for%20Email-0A0A0A?style=flat&logo=mail.ru&logoColor=FF0000)](https://keys.openpgp.org/search?q=ecop%40disroot.org) | **PGP Key** for secure communication | [🔐 Secure Communication](https://keys.openpgp.org/search?q=ecop%40disroot.org) |
+| [![Linktree](https://img.shields.io/badge/Links-edsoncopque-blue?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque) | **Linktree** for all my online profiles | [🌐 Explore All Links](https://linktr.ee/edsoncopque) |
+| ![Python Version 3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue) | Python version I'm currently using | 🐍 **Python 3.11.2** |
+| ![Profile Views](https://komarev.com/ghpvc/?username=ecopque&color=yellow) | **Profile Views** counter for my GitHub | 📊 **Public Profile** |
+
+Feel free to click on the links above to learn more! 😎
+
+
 ---
 
 ## Project Updates
