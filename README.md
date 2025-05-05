@@ -22,7 +22,7 @@ Sit down, grab a coffee, and let's explore code together while exchanging ideas.
 | 🌐 APIs and AI                   | `Rest API*`, `Google API`, `OpenAI API`, `DeepSeek API`                                               | APIs for web services and artificial intelligence integration.                  |
 | 🧪 Testing and Debugging          | `Unit Testing`, `Debugging`                                                                           | Tools and techniques for testing and debugging code.                           |
 
-> *Studying these technologies.*
+> '*' Studying these technologies.
 
 ---
 
