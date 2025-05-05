@@ -130,6 +130,11 @@ Insights into my coding activity and language preferences.
 |--------|------|
 | **Top Languages** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian) |
 
+## 📊 My Stats Dashboard  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian)&nbsp;
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecopque&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecopque&show_icons=true&theme=prussian)&nbsp;
 
 
 <!--
