@@ -98,28 +98,32 @@ Latest updates on repositories in use.
 - ![LastCommit-secret-word-game](https://img.shields.io/github/last-commit/ecopque/secret_word_game?logo=&logoColor=white&label=/secret_word_game&color=9bf12&&style=flat)&nbsp;
 - ![LastCommit-top-word-detector](https://img.shields.io/github/last-commit/ecopque/top_word_detector?logo=&logoColor=white&label=/top_word_detector&color=9bf12&&style=flat)&nbsp;
 
-## 🔧 Project Updates  
-Latest updates on repositories in use.
 
-| Project                                      | Last Commit                                                                                                                                                        |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Programming Challenges](https://github.com/ecopque/programming_challenges)         | ![LastCommit-programming-challenge](https://img.shields.io/github/last-commit/ecopque/programming_challenges?logo=&logoColor=white&label=/programming_challenges&color=9bf12&&style=flat) |
-| [News Analysis System with AI](https://github.com/ecopque/news_analysis_system_with_ai) | ![LastCommit-news-analysis-system-with-ai](https://img.shields.io/github/last-commit/ecopque/news_analysis_system_with_ai?logo=&logoColor=white&label=/news_analysis_system_with_ai&color=9bf12&&style=flat) |
-| [AI Credit Risk Prediction](https://github.com/ecopque/ai_credit_risk_prediction)   | ![LastCommit-ai-credit-risk](https://img.shields.io/github/last-commit/ecopque/ai_credit_risk_prediction?logo=&logoColor=white&label=/ai_credit_risk_prediction&color=9bf12&&style=flat) |
-| [Group Chat](https://github.com/ecopque/group_chat)                               | ![LastCommit-Group-Chat](https://img.shields.io/github/last-commit/ecopque/group_chat?logo=&logoColor=white&label=/group_chat&color=9bf12&&style=flat)               |
-| [Socket Transfer](https://github.com/ecopque/socket_transfer)                       | ![LastCommit-Socket-Transfer](https://img.shields.io/github/last-commit/ecopque/socket_transfer?logo=&logoColor=white&label=/socket_transfer&color=9bf12&&style=flat) |
-| [Registration and Login Project](https://github.com/ecopque/registration_and_login_project) | ![LastCommit-Registration-Login-Project](https://img.shields.io/github/last-commit/ecopque/registration_and_login_project?logo=&logoColor=white&label=/registration_and_login_project&color=9bf12&&style=flat) |
-| [Grocery Store Project](https://github.com/ecopque/grocerystore_project)             | ![LastCommit-Grocery-Store-Project](https://img.shields.io/github/last-commit/ecopque/grocerystore_project?logo=&logoColor=white&label=/grocerystore_project&color=9bf12&&style=flat) |
-| [Ecommerce Project](https://github.com/ecopque/ecommerce_project)                   | ![LastCommit-Ecommerce_Project](https://img.shields.io/github/last-commit/ecopque/ecommerce_project?logo=&logoColor=white&label=/ecommerce_project&color=9bf12&&style=flat) |
-| [Blog Project](https://github.com/ecopque/blog_project)                             | ![LastCommit-Blog_Project](https://img.shields.io/github/last-commit/ecopque/blog_project?logo=&logoColor=white&label=/blog_project&color=9bf12&&style=flat)       |
-| [Schedule Project](https://github.com/ecopque/schedule_project)                     | ![LastCommit-Schedule_Project](https://img.shields.io/github/last-commit/ecopque/schedule_project?logo=&logoColor=white&label=/schedule_project&color=9bf12&&style=flat) |
-| [Visual Calculator](https://github.com/ecopque/visualcalc_calculator)               | ![LastCommit-VisualCalc](https://img.shields.io/github/last-commit/ecopque/visualcalc_calculator?logo=&logoColor=white&label=/visualcalc&color=9bf12&&style=flat)    |
-| [Simple Banking System](https://github.com/ecopque/simple_banking_system)           | ![LastCommit-simple_banking-system](https://img.shields.io/github/last-commit/ecopque/simple_banking_system?logo=&logoColor=white&label=/simple_banking_system&color=9bf12&&style=flat) |
-| [CPF Generator](https://github.com/ecopque/cpf_generator)                           | ![LastCommit-cpf-generator](https://img.shields.io/github/last-commit/ecopque/cpf_generator?logo=&logoColor=white&label=/cpf_generator&color=9bf12&&style=flat)      |
-| [CPF Validator](https://github.com/ecopque/cpf_validator)                           | ![LastCommit-cpf-validator](https://img.shields.io/github/last-commit/ecopque/cpf_validator?logo=&logoColor=white&label=/cpf_validator&color=9bf12&&style=flat)      |
-| [Send SMTP Email](https://github.com/ecopque/send_smtp_email)                       | ![LastCommit-send_smtp_email](https://img.shields.io/github/last-commit/ecopque/send_smtp_email?logo=&logoColor=white&label=/send_smtp_email&color=9bf12&&style=flat) |
-| [Secret Word Game](https://github.com/ecopque/secret_word_game)                     | ![LastCommit-secret-word-game](https://img.shields.io/github/last-commit/ecopque/secret_word_game?logo=&logoColor=white&label=/secret_word_game&color=9bf12&&style=flat) |
-| [Top Word Detector](https://github.com/ecopque/top_word_detector)                   | ![LastCommit-top-word-detector](https://img.shields.io/github/last-commit/ecopque/top_word_detector?logo=&logoColor=white&label=/top_word_detector&color=9bf12&&style=flat) |
+## 🔧 Project Updates  
+Latest updates on active repositories, including project descriptions and last commit info.
+
+| Project | Description | Last Commit |
+|--------|-------------|-------------|
+| [Programming Challenges](https://github.com/ecopque/programming_challenges) | Python+ coding challenges for algorithmic practice. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/programming_challenges?color=9bf12&style=flat) |
+| [News Analysis System with AI](https://github.com/ecopque/news_analysis_system_with_ai) | Extracts and analyzes news headlines using AI. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/news_analysis_system_with_ai?color=9bf12&style=flat) |
+| [AI Credit Risk Prediction](https://github.com/ecopque/ai_credit_risk_prediction) | Predicts credit risk using machine learning models. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/ai_credit_risk_prediction?color=9bf12&style=flat) |
+| [Group Chat](https://github.com/ecopque/group_chat) | Real-time chat application using sockets. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/group_chat?color=9bf12&style=flat) |
+| [Socket Transfer](https://github.com/ecopque/socket_transfer) | File transfer system via socket communication. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/socket_transfer?color=9bf12&style=flat) |
+| [Registration and Login Project](https://github.com/ecopque/registration_and_login_project) | Django project with user authentication system. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/registration_and_login_project?color=9bf12&style=flat) |
+| [Grocery Store Project](https://github.com/ecopque/grocerystore_project) | Backend system for a grocery store platform. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/grocerystore_project?color=9bf12&style=flat) |
+| [Ecommerce Project](https://github.com/ecopque/ecommerce_project) | Full-stack e-commerce web application. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/ecommerce_project?color=9bf12&style=flat) |
+| [Blog Project](https://github.com/ecopque/blog_project) | Django-based blog platform with user features. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/blog_project?color=9bf12&style=flat) |
+| [Schedule Project](https://github.com/ecopque/schedule_project) | System to organize and schedule appointments. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/schedule_project?color=9bf12&style=flat) |
+| [VisualCalc Calculator](https://github.com/ecopque/visualcalc_calculator) | Visual calculator with Python logic. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/visualcalc_calculator?color=9bf12&style=flat) |
+| [Simple Banking System](https://github.com/ecopque/simple_banking_system) | Simulates basic banking operations in Python. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/simple_banking_system?color=9bf12&style=flat) |
+| [CPF Generator](https://github.com/ecopque/cpf_generator) | Tool for generating valid CPF numbers. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/cpf_generator?color=9bf12&style=flat) |
+| [CPF Validator](https://github.com/ecopque/cpf_validator) | Validates CPF numbers according to Brazilian rules. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/cpf_validator?color=9bf12&style=flat) |
+| [Send SMTP Email](https://github.com/ecopque/send_smtp_email) | Python script to send emails via SMTP. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/send_smtp_email?color=9bf12&style=flat) |
+| [Secret Word Game](https://github.com/ecopque/secret_word_game) | Terminal-based guessing game in Python. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/secret_word_game?color=9bf12&style=flat) |
+| [Top Word Detector](https://github.com/ecopque/top_word_detector) | Identifies the most frequent words in a text. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/top_word_detector?color=9bf12&style=flat) |
+
+
+
 
 
 ---
