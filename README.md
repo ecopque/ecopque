@@ -121,7 +121,7 @@ Get a glimpse of my development activity, consistency, and top languages. These 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=prussian&langs_count=10" alt="Top Languages" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ecopque&show_icons=true&theme=prussian" alt="GitHub Stats" />
