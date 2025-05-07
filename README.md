@@ -135,23 +135,4 @@ Get a glimpse of my development activity, consistency, and top languages. These 
 </table>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&theme=tokyonight&count_private=true&hide=html,css&langs_count=10)
-## 📊 My Stats Dashboard  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ecopque&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecopque&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=highcontrast&langs_count=10)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecopque&show_icons=true&theme=highcontrast)
