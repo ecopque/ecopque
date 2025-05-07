@@ -134,3 +134,5 @@ Get a glimpse of my development activity, consistency, and top languages. These 
   </tr>
 </table>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=dracula&langs_count=10)
+
