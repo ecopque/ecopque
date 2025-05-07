@@ -120,7 +120,7 @@ Recent blog posts covering development insights and tools.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecopque&layout=compact&theme=dark&langs_count=11" alt="Top Languages" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ecopque&show_icons=true&theme=dark" alt="GitHub Stats" />
