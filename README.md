@@ -12,7 +12,7 @@ Take a seat, grab a coffee, and let’s embark on a coding journey together whil
 ---
 
 ## 🧑‍💻 My Technologies
-With knwledge in Java and Python, along with various complementary technologies, I have explored different areas of development, always striving to improve and leanr new approaches. Here are the tools and technologies I am currently working with.
+With knowledge in Java and Python, along with various complementary technologies, I have explored different areas of development, always striving to improve and learn new approaches. Here are the tools and technologies I am currently working with.
 
 | **Category**                       | **Technologies**                                                                                     | **Description**                                                                |
 |-----------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
