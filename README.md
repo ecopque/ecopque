@@ -16,7 +16,7 @@ With a solid foundation in Python and various complementary technologies, I have
 
 | **Category**                       | **Technologies**                                                                                     | **Description**                                                                |
 |-----------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 🧠 Programming Logic              | `Python`, `HTML`, `CSS`, `SQL`, `Shell`                                                               | Core programming and markup languages for web development and scripting.       |
+| 🧠 Programming Logic              | `Java`, `Python`, `HTML`, `CSS`, `SQL`, `Shell`                                                               | Core programming and markup languages for web development and scripting.       |
 | ⚙️ Frameworks and Libraries      | `Django`, `FastAPI`, `Ajax*`, `MVC`, `ORM`                                                           | Frameworks and patterns for web development and data manipulation.             |
 | 🗃️ Databases                     | `PostgreSQL`, `MySQL`, `MariaDB`, `SQLite`                                                            | Database management systems for structured data storage and retrieval.         |
 | 🌐 Communication Protocols & Sockets | `TCP/IP`, `Client/Server`                                                                             | Protocols and architecture for network communication and server interaction.   |
