@@ -14,8 +14,6 @@ Explore and connect with me through these links!
 | ![Java Version 21.0.7](https://img.shields.io/badge/Java%20version-21.0.7-orange) | Java version I'm currently using | ☕ **Java 21.0.7 (LTS)** |
 | ![Profile Views](https://komarev.com/ghpvc/?username=ecopque&color=yellow) | **Profile Views** counter for my GitHub | 📊 **Public Profile** |
 
-Feel free to click on the links above to learn more! :-)
-
 ---
 
 ## 🛠️ The Map of My Tools
