@@ -3,16 +3,18 @@ Take a seat, grab a coffee, and let’s embark on a coding journey together whil
 
 ---
 
-## 🌐 My Links
+## 🌐 My Links  
+Explore and connect with me through these links!
 
-| Key | Link | Info |
-|-----|------|------|
-| 🔐 PGP Key | [keys.openpgp.org](https://keys.openpgp.org/search?q=ecop%40disroot.org) | My public key for encrypted communication |
-| 🌐 Linktree | [linktr.ee/edsoncopque](https://linktr.ee/edsoncopque) | A hub with all my important online profiles |
-| 🐍 Python | ![Python Version](https://img.shields.io/badge/Python%20version-3.11.2-blue) | I'm currently using Python 3.11.2 |
-| ☕ Java | ![Java Version](https://img.shields.io/badge/Java%20version-21.0.7-orange) | Java version 21.0.7 (LTS) |
-| 👁️ Views | ![Profile Views](https://komarev.com/ghpvc/?username=ecopque&color=yellow) | GitHub profile views |
+| 🔗 **Link**        | 🔎 **Description**                      | 📅 **Details**              |
+|--------------------|----------------------------------------|-----------------------------|
+| [![PGP Key](https://img.shields.io/badge/PGP%20Key%20for%20Email-0A0A0A?style=flat&logo=mail.ru&logoColor=FF0000)](https://keys.openpgp.org/search?q=ecop%40disroot.org) | **PGP Key** for secure communication | [🔐 Secure Communication](https://keys.openpgp.org/search?q=ecop%40disroot.org) |
+| [![Linktree](https://img.shields.io/badge/Links-edsoncopque-blue?style=flat&logo=linktree&logoColor=FF0000)](https://linktr.ee/edsoncopque) | **Linktree** for all my online profiles | [🌐 Explore All Links](https://linktr.ee/edsoncopque) |
+| ![Python Version 3.11.2](https://img.shields.io/badge/Python%20version-3.11.2-blue) | Python version I'm currently using | 🐍 **Python 3.11.2** |
+| ![Java Version 21.0.7](https://img.shields.io/badge/Java%20version-21.0.7-orange) | Java version I'm currently using | ☕ **Java 21.0.7 (LTS)** |
+| ![Profile Views](https://komarev.com/ghpvc/?username=ecopque&color=yellow) | **Profile Views** counter for my GitHub | 📊 **Public Profile** |
 
+Feel free to click on the links above to learn more! :-)
 
 ---
 
