@@ -88,6 +88,7 @@ Latest updates on active repositories, including project descriptions and last c
 
 | Project | Description | Last Commit |
 |--------|-------------|-------------|
+| [New Banking System](https://github.com/ecopque/new_banking_system) | Advanced banking simulation with enhanced features. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/new_banking_system?color=9bf12&style=flat) |
 | [News Analysis System with AI](https://github.com/ecopque/news_analysis_system_with_ai) | Extracts and analyzes news headlines using AI. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/news_analysis_system_with_ai?color=9bf12&style=flat) |
 | [AI Credit Risk Prediction](https://github.com/ecopque/ai_credit_risk_prediction) | Predicts credit risk using machine learning models. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/ai_credit_risk_prediction?color=9bf12&style=flat) |
 | [Group Chat](https://github.com/ecopque/group_chat) | Real-time chat application using sockets. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/group_chat?color=9bf12&style=flat) |
