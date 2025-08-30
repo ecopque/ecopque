@@ -88,7 +88,7 @@ Latest updates on active repositories, including project descriptions and last c
 
 | Project | Description | Last Commit |
 |--------|-------------|-------------|
-| [Shopcart React](https://github.com/ecopque/shopcart_react) | E-commerce. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/programming_challenges?color=9bf12&style=flat) |
+| [Shopcart React](https://github.com/ecopque/shopcart_react) | E-commerce project. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/programming_challenges?color=9bf12&style=flat) |
 | [Programming Challenges](https://github.com/ecopque/programming_challenges) | Interesting challenges found across the web. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/programming_challenges?color=9bf12&style=flat) |
 | [Conway's Game of Life](https://github.com/ecopque/conways_game_of_life) | Cellular automaton simulation based on Conway’s rules. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/conways_game_of_life?color=9bf12&style=flat) |
 | [Store API Project](https://github.com/ecopque/store_api_project) | RESTful API for managing store products and sales. | ![LastCommit](https://img.shields.io/github/last-commit/ecopque/store_api_project?color=9bf12&style=flat) |
